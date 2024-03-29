@@ -18,6 +18,8 @@ This is a curated list of awesome things related to VitePress.
 
 - [vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Add mermaid support for Vitepress
 
+- [vitepress-plugin-rss](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Provide support for generating RSS subscription source links for VitePress.
+
 ## Community Themes
 
 - Blog Style
