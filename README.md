@@ -11,10 +11,9 @@ This is a curated list of great things related to VitePress.
 - [Awesome Vitepress ](#awesome-vitepress-)
   - [Community Plugins](#community-plugins)
   - [Community Themes](#community-themes)
+  - [Extension component](#extension-component)
 
 ## Community Plugins
-
-- [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
 
 - [vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Add mermaid support for Vitepress
 
@@ -36,4 +35,6 @@ This is a curated list of great things related to VitePress.
 
   - [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
 
--
+## Extension component
+
+- [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
