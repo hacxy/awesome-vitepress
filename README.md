@@ -9,11 +9,24 @@
 This is a curated list of great things related to VitePress.
 
 - [Awesome Vitepress ](#awesome-vitepress-)
-  - [Community Plugins](#community-plugins)
-  - [Community Themes](#community-themes)
+  - [Tutorial](#tutorial)
+    - [Official tutorial](#official-tutorial)
+  - [Plugins](#plugins)
+    - [Community Plugins](#community-plugins)
+  - [Themes](#themes)
+    - [Community Themes](#community-themes)
   - [Extension component](#extension-component)
 
-## Community Plugins
+## Tutorial
+
+### Official tutorial
+
+- [vitepress](https://vitepress.dev/) - Vitepress official documentation
+- [vue](https://vuejs.org/) - Vue Official Documentation
+
+## Plugins
+
+### Community Plugins
 
 - [vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Add mermaid support for Vitepress
 
@@ -23,7 +36,9 @@ This is a curated list of great things related to VitePress.
 
 - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar for Vitepress based on file and directory structure.
 
-## Community Themes
+## Themes
+
+### Community Themes
 
 - Blog Style
 
