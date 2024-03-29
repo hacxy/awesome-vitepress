@@ -14,7 +14,7 @@ This is a curated list of awesome things related to VitePress.
 
 ## Community Plugins
 
-- [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web components
+- [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
 
 ## Community Themes
 
