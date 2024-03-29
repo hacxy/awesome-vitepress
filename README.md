@@ -9,17 +9,17 @@
 This is a curated list of great things related to VitePress.
 
 - [Awesome Vitepress ](#awesome-vitepress-)
-  - [Tutorial](#tutorial)
-    - [Official tutorial](#official-tutorial)
+  - [Tutorials](#tutorials)
+    - [Official tutorials](#official-tutorials)
   - [Plugins](#plugins)
     - [Community Plugins](#community-plugins)
   - [Themes](#themes)
     - [Community Themes](#community-themes)
-  - [Extension component](#extension-component)
+  - [Extension Components](#extension-components)
 
-## Tutorial
+## Tutorials
 
-### Official tutorial
+### Official tutorials
 
 - [vitepress](https://vitepress.dev/) - Vitepress official documentation
 - [vue](https://vuejs.org/) - Vue Official Documentation
@@ -50,6 +50,6 @@ This is a curated list of great things related to VitePress.
 
   - [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
 
-## Extension component
+## Extension Components
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
