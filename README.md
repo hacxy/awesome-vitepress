@@ -21,3 +21,4 @@ This is a curated list of awesome things related to VitePress.
 - Blog Style
 
   - [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme) - Minimalist Vitepress blog theme
+  - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - A nice blog theme used vitepress to build
