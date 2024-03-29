@@ -6,7 +6,7 @@
 
 # Awesome Vitepress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com//awesome-vitepress)
 
-This is a curated list of awesome things related to VitePress.
+This is a curated list of great things related to VitePress.
 
 - [Awesome Vitepress ](#awesome-vitepress-)
   - [Community Plugins](#community-plugins)
@@ -30,6 +30,10 @@ This is a curated list of awesome things related to VitePress.
 
   - [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme) - Minimalist Vitepress blog theme
   - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - A nice blog theme used vitepress to build
+  - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - A very simple and beautiful blog theme project.
 
 - Document Style
+
   - [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
+
+-
