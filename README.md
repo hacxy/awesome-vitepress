@@ -16,9 +16,14 @@ This is a curated list of awesome things related to VitePress.
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
 
+- [vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Add mermaid support for Vitepress
+
 ## Community Themes
 
 - Blog Style
 
   - [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme) - Minimalist Vitepress blog theme
   - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - A nice blog theme used vitepress to build
+
+- Document Style
+  - [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
