@@ -16,13 +16,14 @@ This is a curated list of great things related to VitePress.
   - [Themes](#themes)
     - [Community Themes](#community-themes)
   - [Extension Components](#extension-components)
+  - [Templates](#templates)
 
 ## Tutorials
 
 ### Official tutorials
 
 - [vitepress](https://vitepress.dev/) - Vitepress official documentation
-- [vue](https://vuejs.org/) - Vue Official Documentation
+- [vue](https://vuejs.org/) - Vue Official documentation
 
 ## Plugins
 
@@ -48,8 +49,12 @@ This is a curated list of great things related to VitePress.
 
 - Document Style
 
-  - [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
-
 ## Extension Components
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
+
+## Templates
+
+- [vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
+
+- [查尔斯的知识库](https://github.com/Charles7c/charles7c.github.io) - 记录 & 分享个人碎片化、结构化、体系化的技术知识内容
