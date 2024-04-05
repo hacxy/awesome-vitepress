@@ -4,7 +4,7 @@
   <br>
 </p>
 
-# Awesome Vitepress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hacxy/awesome-vitepress)
+# Awesome Vitepress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated list of great things related to VitePress.
 
@@ -16,7 +16,7 @@ This is a curated list of great things related to VitePress.
   - [Themes](#themes)
     - [Community Themes](#community-themes)
   - [Extension Components](#extension-components)
-  - [Templates](#templates)
+  - [Community Templates](#community-templates)
 
 ## Tutorials
 
@@ -37,6 +37,8 @@ This is a curated list of great things related to VitePress.
 
 - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar for Vitepress based on file and directory structure.
 
+- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar) - VitePress Sidebar is a sidebar auto-generation plugin compatible with VitePress.
+
 ## Themes
 
 ### Community Themes
@@ -53,7 +55,7 @@ This is a curated list of great things related to VitePress.
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
 
-## Templates
+## Community Templates
 
 - [vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
 
