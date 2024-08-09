@@ -54,6 +54,7 @@ This is a curated list of great things related to VitePress.
 ## Extension Components
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
+- [lite-tree](https://github.com/zhangfisher/lite-tree) -  Easy to render tree on vitepress
 
 ## Community Templates
 
