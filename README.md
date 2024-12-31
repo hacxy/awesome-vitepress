@@ -30,14 +30,12 @@ This is a curated list of great things related to VitePress.
 ### Community Plugins
 
 - [vitepress-plugin-mermaid](https://github.com/emersonbottero/vitepress-plugin-mermaid) - Add mermaid support for Vitepress
-
 - [vitepress-plugin-rss](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-rss) - Provide support for generating RSS subscription source links for VitePress.
 - [vitepress-plugin-pagefind](https://github.com/ATQQ/sugar-blog/tree/master/packages/vitepress-plugin-pagefind) - Offline full-text search based on [pagefind](https://github.com/cloudcannon/pagefind) implementation.
 - [vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search) - Provide local search to your documentation site.
-
 - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar for Vitepress based on file and directory structure.
-
 - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar) - VitePress Sidebar is a sidebar auto-generation plugin compatible with VitePress.
+- [vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons) - Enhance code blocks features for VitePress.
 
 ## Themes
 
