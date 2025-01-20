@@ -43,7 +43,7 @@ This is a curated list of great things related to VitePress.
 
 - Blog Style
 
-  - [vitepress-theme-mild](https://github.com/hacxy/vitepress-theme-mild) - 🌈 Minimalist blog theme.
+  - [vitepress-theme-mild](https://github.com/hacxy/vitepress-theme-mild) - ✨A VitePress theme with rich capabilities..
   - [@sugarat/theme](https://github.com/ATQQ/sugar-blog/tree/master/packages/theme) - Minimalist Vitepress blog theme
   - [vitepress-blog-zaun](https://github.com/clark-cui/vitepress-blog-zaun) - A nice blog theme used vitepress to build
   - [vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure) - A very simple and beautiful blog theme project.
