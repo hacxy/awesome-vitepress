@@ -36,6 +36,7 @@ This is a curated list of great things related to VitePress.
 - [vitepress-plugin-autobar](https://github.com/luciozhang/vitepress-plugin-autobar) - Generator sidebar for Vitepress based on file and directory structure.
 - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar) - VitePress Sidebar is a sidebar auto-generation plugin compatible with VitePress.
 - [vitepress-plugin-group-icons](https://github.com/yuyinws/vitepress-plugin-group-icons) - Enhance code blocks features for VitePress.
+- [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 
 ## Themes
 
