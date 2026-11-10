@@ -39,6 +39,7 @@ This is a curated list of great things related to VitePress.
 - [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation with theme-aware component for light/dark mode and responsive viewports.
 - [vitepress-plugin-responsive-images](https://github.com/shishengkai/vitepress-plugin-responsive-images) - Auto-generate AVIF/WebP responsive `<picture>` elements from local Markdown images to improve PageSpeed and load times.
 - [@i18n-micro/vitepress](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vitepress) - Runtime i18n for VitePress: JSON dictionaries, `$t` / components in markdown, locale path sync
+- [cudoc-vitepress](https://github.com/cudoment/cudoc/tree/main/packages/cudoc-vitepress) - Embed sections of other pages, check links and anchors across the docs, and write merged table cells, lists in cells, tabs and variables in plain Markdown (VitePress 1.6).
 
 ## Themes
 
