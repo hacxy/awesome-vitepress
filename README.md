@@ -59,6 +59,7 @@ This is a curated list of great things related to VitePress.
 
 - [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) - Live2d for web component
 - [lite-tree](https://github.com/zhangfisher/lite-tree) - Easy to render tree on vitepress
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue and VitePress, with optional Mermaid and KaTeX support.
 
 ## Community Templates
 
