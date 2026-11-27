@@ -41,6 +41,7 @@ This is a curated list of great things related to VitePress.
 - [@i18n-micro/vitepress](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vitepress) - Runtime i18n for VitePress: JSON dictionaries, `$t` / components in markdown, locale path sync
 - [markdown-it-tsquare](https://github.com/tsquare-js/markdown/tree/main/packages/markdown-it-tsquare) - Turn `tsquare` code blocks into UI wireframe images at build time.
 - [cudoc-vitepress](https://github.com/cudoment/cudoc/tree/main/packages/cudoc-vitepress) - Embed sections of other pages, check links and anchors across the docs, and write merged table cells, lists in cells, tabs and variables in plain Markdown (VitePress 1.6).
+- [Ask this site](https://askthissite.com/for/vitepress) - Hosted answer box and search for a VitePress site: answers visitors' questions from your own pages and links to the sections it used. Added with one script tag in `.vitepress/config`. Free plan available; not open source.
 
 ## Themes
 
